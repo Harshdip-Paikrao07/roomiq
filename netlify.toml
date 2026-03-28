@@ -1,4 +1,3 @@
 [build]
-  base = "roomiq"
   command = "npm run build"
-  publish = "roomiq/.next"
+  publish = ".next"
